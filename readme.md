@@ -12,7 +12,9 @@ You'll each have you're own AWS account to use for the day that you can access v
 
 [Lab 1 Link](https://catalog.us-east-1.prod.workshops.aws/workshops/80ba0ea5-7cf9-4b8c-9d3f-1cd988b6c071/en-US/5-hcls/)
 
-IMPORTANT! - When asked to download the dataset, DO NOT use the dataset in the above guide, use this dataset [diabetic-readmission-canvas-quickbuild.csv](diabetic-readmission-canvas-quickbuild.csv)
+IMPORTANT! - When asked to download the dataset, DO NOT use the dataset in the above guide, use this dataset 
+
+[diabetic-readmission-canvas-quickbuild.csv](diabetic-readmission-canvas-quickbuild.csv)
 
 # Lab 2 (11:30am)
 
