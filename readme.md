@@ -6,11 +6,11 @@ Find there the details required to access all of today's content and labs.
 
 You'll each have you're own AWS account to use for the day that you can access via Event Engine.  Follow the instructions in the below link to get into your AWS account.  When asked to enter the **Event Hash**, use `8cd7-16c795b574-46`
 
-(https://catalog.us-east-1.prod.workshops.aws/workshops/80ba0ea5-7cf9-4b8c-9d3f-1cd988b6c071/en-US/0-prerequisites/instructor-led)[Accessing Event Engine]
+[https://catalog.us-east-1.prod.workshops.aws/workshops/80ba0ea5-7cf9-4b8c-9d3f-1cd988b6c071/en-US/0-prerequisites/instructor-led](Accessing Event Engine)
 
 # Lab 1 (10am)
 
-(https://catalog.us-east-1.prod.workshops.aws/workshops/80ba0ea5-7cf9-4b8c-9d3f-1cd988b6c071/en-US/5-hcls/)[Lab 1 Link]
+[https://catalog.us-east-1.prod.workshops.aws/workshops/80ba0ea5-7cf9-4b8c-9d3f-1cd988b6c071/en-US/5-hcls/](Lab 1 Link)
 
 # Lab 2 (11:30am)
 
