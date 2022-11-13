@@ -4,7 +4,7 @@
 
 You'll each have you're own AWS account to use for the day.
 
-Follow the instructions in the link below to access your account and SageMaker Canvas, then proceed to **Lab 1**
+Follow the instructions in the link below to access your AWS account, then proceed to **Lab 1**
 
 **NOTE:** When asked to enter the **Event Hash**, use `8cd7-16c795b574-46`
 
