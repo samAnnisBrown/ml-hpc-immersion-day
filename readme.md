@@ -6,7 +6,7 @@ You'll each have you're own AWS account to use for the day.
 
 Follow the instructions in the link below to access your AWS account, then proceed to **Lab 1**
 
-**NOTE:** When asked to enter the **Event Hash**, use `8cd7-16c795b574-46`
+**NOTE:** When asked to enter the **Event Hash**, please use the hash shared via email.
 
 [Accessing Event Engine & Your AWS Account](https://catalog.us-east-1.prod.workshops.aws/workshops/80ba0ea5-7cf9-4b8c-9d3f-1cd988b6c071/en-US/0-prerequisites/instructor-led)
 
